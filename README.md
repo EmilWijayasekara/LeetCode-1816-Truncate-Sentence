@@ -1,6 +1,6 @@
 
 
-# LeetCode Practice  (Day 5)
+# LeetCode Practice  (Day 6)
 
 ## About the problem
 - *Problem Number* : 1816
